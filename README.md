@@ -1,6 +1,6 @@
 # Moshtarak – Smart Home Controller  
 
-Moshtarak (مشترك = "shared") is a DIY smart home project that combines **Arduino Nano**, **ESP8266-01**, and a **4-channel relay module** to control AC outlets with multiple interfaces:  
+Moshtarak is a DIY smart home project that combines **Arduino Nano**, **ESP8266-01**, and a **4-channel relay module** to control AC outlets with multiple interfaces:  
 - Physical buttons & LED indicators  
 - 433 MHz RF remote  
 - ESPHome integration (via ESP8266) with Home Assistant  
